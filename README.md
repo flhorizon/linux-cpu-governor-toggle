@@ -1,6 +1,16 @@
 Linux CPU Performance Governor Toggle
 ============
 
+## TL;DR
+
+In the repo, run `make` with an optional destination
+
+![walkthrough_build_install.png](doc/walkthrough_build_install.png)
+
+Then, double click the binary (or run in terminal)
+
+![walkthrough_click_the_thing.png](doc/walkthrough_click_the_thing.png)
+
 ## Why
 
 By default, on laptops, cpu governor is in Powersave state.
